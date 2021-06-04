@@ -1,0 +1,50 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_main_div {
+    border: 5px dotted black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_main_div img {
+    width: 100%;
+}
+
+.travel_main_div hr {
+    width: 230px;
+    border-top: 3px solid red;
+}
+
+.travel_main_div p, .travel_main_div h5 {
+    margin-left: 20px;
+}
+
+.movies_main_div {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movies_main_div i {
+    float: right;
+}
