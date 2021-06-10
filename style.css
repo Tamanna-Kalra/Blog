@@ -48,3 +48,20 @@ input
 .movies_main_div i {
     float: right;
 }
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    padding: 8px;
+    border-bottom: 5px dotted black;
+}
+
+.environment_li img {
+    border-radius: 50px;
+}
+
+.environment_li p {
+    margin-top: 5px;
+}
